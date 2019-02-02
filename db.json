@@ -1,17 +1,17 @@
 {
 	"items": [{
 			"id": 1,
-			"message": "hola",
+			"message": "Task one",
 			"done": true
 		},
 		{
 			"id": 2,
-			"message": "portal choto",
+			"message": "Task two",
 			"done": false
 		},
 		{
 			"id": 3,
-			"message": "Puto el que lee",
+			"message": "Task three",
 			"done": true
 		}
 
